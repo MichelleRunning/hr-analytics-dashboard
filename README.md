@@ -37,8 +37,11 @@ These measures are used dynamically across visuals to allow filtering by departm
 - Differences in attrition are observable across gender groups
 - Lower job satisfaction and employee satisfaction are associated with higher attrition
 
-## Screenshots
-Dashboard previews are available in the `/screenshots` folder.
+
+## Dashboard Preview
+
+![HR Analytics Dashboard Overview](dashboard-preview.jpg)
+
 
 ## Use Case
 This dashboard demonstrates how HR teams can:
