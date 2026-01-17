@@ -3,6 +3,11 @@
 ## Overview
 This project presents an interactive HR analytics dashboard built in **Power BI** to analyse employee attrition and workforce satisfaction. The dashboard focuses on identifying patterns in attrition across departments and demographic groups, while providing clear metrics to support HR decision-making.
 
+## Dashboard Preview
+
+![HR Analytics Dashboard Overview](dashboard-preview.jpg)
+
+
 ## Objectives
 - Calculate and monitor **employee attrition** and **attrition rate**
 - Analyse attrition by **department**, **gender**, and **job role**
@@ -36,11 +41,6 @@ These measures are used dynamically across visuals to allow filtering by departm
 - Certain departments show consistently higher attrition rates
 - Differences in attrition are observable across gender groups
 - Lower job satisfaction and employee satisfaction are associated with higher attrition
-
-
-## Dashboard Preview
-
-![HR Analytics Dashboard Overview](dashboard-preview.jpg)
 
 
 ## Use Case
